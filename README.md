@@ -10,9 +10,10 @@ I want to learn in the near future Svelte Framework
   - Node.js
   - Javascript
 
-## Contact:
-# Discord
-MacixxPL
+# Contact:
+## Discord
+Macix#4668
+
 
 Have a good day! 🌴
 
