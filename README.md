@@ -7,8 +7,7 @@ I want to learn in the near future Svelte Framework
 
 ## Main used languages:
   - Typescript
-  - Node.js
-  - Javascript
+  - Javascript (Node.js & browser ES)
 
 # Contact:
 ## Discord
